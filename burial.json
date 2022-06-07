@@ -21,42 +21,6 @@
                 "moderator",
                 "team"
             ],
-            "accessFORM2":
-            [
-                "admin",
-                "moderator",
-                "team"
-            ],
-            "accessFORM3":
-            [
-                "admin",
-                "moderator",
-                "team"
-            ],
-            "accessFORM4":
-            [
-                "admin",
-                "moderator",
-                "team"
-            ],
-            "accessFORM4SECTION1":
-            [
-                "admin",
-                "moderator",
-                "team"
-            ],
-            "accessFORM3SECTION1":
-            [
-                "admin",
-                "moderator",
-                "team"
-            ],
-            "accessFORM2SECTION1":
-            [
-                "admin",
-                "moderator",
-                "team"
-            ],
             "accessFORM1SECTION1":
             [
                 "admin",
@@ -121,30 +85,6 @@
                 "uncertaintyFORM1": true,
                 "formaccessinheritFORM1": true,
                 "visibleFORM1": true
-            },
-            "FORM2":
-            {
-                "submitActionFORM2": "Save and New",
-                "annotationFORM2": true,
-                "uncertaintyFORM2": true,
-                "formaccessinheritFORM2": true,
-                "visibleFORM2": true
-            },
-            "FORM3":
-            {
-                "submitActionFORM3": "Save and New",
-                "annotationFORM3": true,
-                "uncertaintyFORM3": true,
-                "formaccessinheritFORM3": true,
-                "visibleFORM3": true
-            },
-            "FORM4":
-            {
-                "submitActionFORM4": "Save and New",
-                "annotationFORM4": true,
-                "uncertaintyFORM4": true,
-                "formaccessinheritFORM4": true,
-                "visibleFORM4": true
             }
         },
         "_id": "project-metadata-forms",
@@ -213,46 +153,10 @@
                     "uncertaintyFORM1": true,
                     "formaccessinheritFORM1": true,
                     "visibleFORM1": true
-                },
-                "FORM2":
-                {
-                    "submitActionFORM2": "Save and New",
-                    "annotationFORM2": true,
-                    "uncertaintyFORM2": true,
-                    "formaccessinheritFORM2": true,
-                    "visibleFORM2": true
-                },
-                "FORM3":
-                {
-                    "submitActionFORM3": "Save and New",
-                    "annotationFORM3": true,
-                    "uncertaintyFORM3": true,
-                    "formaccessinheritFORM3": true,
-                    "visibleFORM3": true
-                },
-                "FORM4":
-                {
-                    "submitActionFORM4": "Save and New",
-                    "annotationFORM4": true,
-                    "uncertaintyFORM4": true,
-                    "formaccessinheritFORM4": true,
-                    "visibleFORM4": true
                 }
             },
             "sections":
             {
-                "FORM4SECTION1":
-                {
-                    "sectionaccessinheritFORM4SECTION1": true
-                },
-                "FORM3SECTION1":
-                {
-                    "sectionaccessinheritFORM3SECTION1": true
-                },
-                "FORM2SECTION1":
-                {
-                    "sectionaccessinheritFORM2SECTION1": true
-                },
                 "FORM1SECTION1":
                 {
                     "sectionaccessinheritFORM1SECTION1": true
@@ -275,42 +179,6 @@
             "access":
             {
                 "accessFORM1":
-                [
-                    "admin",
-                    "moderator",
-                    "team"
-                ],
-                "accessFORM2":
-                [
-                    "admin",
-                    "moderator",
-                    "team"
-                ],
-                "accessFORM3":
-                [
-                    "admin",
-                    "moderator",
-                    "team"
-                ],
-                "accessFORM4":
-                [
-                    "admin",
-                    "moderator",
-                    "team"
-                ],
-                "accessFORM4SECTION1":
-                [
-                    "admin",
-                    "moderator",
-                    "team"
-                ],
-                "accessFORM3SECTION1":
-                [
-                    "admin",
-                    "moderator",
-                    "team"
-                ],
-                "accessFORM2SECTION1":
                 [
                     "admin",
                     "moderator",
@@ -358,18 +226,6 @@
         "is_attachment": false,
         "metadata":
         {
-            "FORM4SECTION1":
-            {
-                "sectionaccessinheritFORM4SECTION1": true
-            },
-            "FORM3SECTION1":
-            {
-                "sectionaccessinheritFORM3SECTION1": true
-            },
-            "FORM2SECTION1":
-            {
-                "sectionaccessinheritFORM2SECTION1": true
-            },
             "FORM1SECTION1":
             {
                 "sectionaccessinheritFORM1SECTION1": true
@@ -3443,49 +3299,6 @@
                 "uidesign": "form",
                 "label": "General"
             },
-            "FORM2SECTION1":
-            {
-                "fields":
-                [
-                    "mound-measure-heightmax",
-                    "mound-measure-heightmin",
-                    "mound-measure-diammax",
-                    "mound-measure-diammin",
-                    "mound-measure-otherdimension",
-                    "mound-measure-shapenote"
-                ],
-                "uidesign": "form",
-                "label": "SECTION1"
-            },
-            "FORM3SECTION1":
-            {
-                "fields":
-                [
-                    "mound-material-assocmaterial",
-                    "mound-material-samplecollected",
-                    "mound-material-description",
-                    "mound-material-chronology",
-                    "mound-material-photo"
-                ],
-                "uidesign": "form",
-                "label": "SECTION1"
-            },
-            "FORM4SECTION1":
-            {
-                "fields":
-                [
-                    "mound-crm-condition",
-                    "mound-crm-principalimpact",
-                    "mound-crm-otherimpact",
-                    "mound-crm-potential",
-                    "mound-crm-damage-what",
-                    "mound-crm-damage-when",
-                    "mound-crm-rtdescription",
-                    "mound-crm-recommendations"
-                ],
-                "uidesign": "form",
-                "label": "SECTION1"
-            },
             "FORM1SECTION2":
             {
                 "fields":
@@ -3542,38 +3355,11 @@
                     "FORM1SECTION4"
                 ],
                 "label": "Mound"
-            },
-            "FORM2":
-            {
-                "views":
-                [
-                    "FORM2SECTION1"
-                ],
-                "label": ""
-            },
-            "FORM3":
-            {
-                "views":
-                [
-                    "FORM3SECTION1"
-                ],
-                "label": ""
-            },
-            "FORM4":
-            {
-                "views":
-                [
-                    "FORM4SECTION1"
-                ],
-                "label": ""
             }
         },
         "visible_types":
         [
-            "FORM1",
-            "FORM2",
-            "FORM3",
-            "FORM4"
+            "FORM1"
         ],
         "_id": "ui-specification",
         "_rev": "3-e968eba92e5015a3cee98be5e44bfed5"
