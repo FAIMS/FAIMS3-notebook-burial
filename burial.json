@@ -9,7 +9,7 @@
             }
         ],
         "_id": "local-autoincrementers",
-        "_rev": "3-08326e2e822d63781c997b82e0e0da5a"
+        "_rev": "2-99be2d802cdfe7641f5e83cd9ed12483"
     },
     {
         "is_attachment": false,
@@ -47,7 +47,7 @@
             ]
         },
         "_id": "project-metadata-access",
-        "_rev": "3-5d7c37796fab315534cb2996c87017f8"
+        "_rev": "2-fff215dfd74811bf2bc2023c2b8bb4db"
     },
     {
         "is_attachment": false,
@@ -58,21 +58,21 @@
             "team"
         ],
         "_id": "project-metadata-accesses",
-        "_rev": "3-7f1d3c80499ccbf017d4a888ca6ff4c2"
+        "_rev": "2-fb717da8ae39cd1c1f2134a70181fc7b"
     },
     {
         "is_attachment": false,
         "metadata":
         {},
         "_id": "project-metadata-behavious",
-        "_rev": "3-deeadb776e390788d5996b19ea0f7852"
+        "_rev": "2-1434567f4374ea530831804945fb67df"
     },
     {
         "is_attachment": false,
         "metadata":
         [],
         "_id": "project-metadata-filenames",
-        "_rev": "3-603af4103e4fc72bb4ea245e7c8b38d6"
+        "_rev": "2-556bcb233f6b1168a7b02ccd89cb9271"
     },
     {
         "is_attachment": false,
@@ -88,50 +88,50 @@
             }
         },
         "_id": "project-metadata-forms",
-        "_rev": "3-0a702fcd4af061cb98ffb5c65733f676"
+        "_rev": "2-907802b757808c10b8cafb8849b681e6"
     },
     {
         "is_attachment": false,
         "metadata": false,
         "_id": "project-metadata-ispublic",
-        "_rev": "3-731e5dfa5916b3b8d29ee3ae8a92d39f"
+        "_rev": "2-6cf3ccfeecccddc26edca3925b3f3fb3"
     },
     {
         "is_attachment": false,
         "metadata": true,
         "_id": "project-metadata-isrequest",
-        "_rev": "3-27216f5b862eebb51727b1d4d69d74d9"
+        "_rev": "2-b876bd5f862b41dfd3e89491b514fed4"
     },
     {
         "is_attachment": false,
         "metadata": "Aarhus University, Yambol History Museum, Elhovo History Museum",
         "_id": "project-metadata-lead_institution",
-        "_rev": "3-a02f9ca0ed5b702595d335241c119999"
+        "_rev": "2-e7a3f73f1d2b563e65a14cb90df0612e"
     },
     {
         "is_attachment": false,
         "metadata":
         {},
         "_id": "project-metadata-meta",
-        "_rev": "3-bdd515254099e8636c8aaf0aa81a9429"
+        "_rev": "2-43c19e4040a2063d77c9bc0de44d3b8d"
     },
     {
         "is_attachment": false,
         "metadata": "Module for the monitoring of burial mounds in the Yambol district, Bulgaria.",
         "_id": "project-metadata-pre_description",
-        "_rev": "3-afd2185b22196ff9bf976c5ecc1dd830"
+        "_rev": "2-c6dd6d7c12ef3b64e30fcfadda76dac7"
     },
     {
         "is_attachment": false,
         "metadata": "Adela Sobotkova, Todor Valchev, Christo Christov",
         "_id": "project-metadata-project_lead",
-        "_rev": "3-48aea14a12d7b619aac5c15e387dbb79"
+        "_rev": "2-538f9c53c58257a1a554969bb1494335"
     },
     {
         "is_attachment": false,
         "metadata": "",
         "_id": "project-metadata-project_status",
-        "_rev": "3-267c6d50ae12a5806be12738cfc80da9"
+        "_rev": "2-f265e5f6c58001cefd506978fc55a332"
     },
     {
         "is_attachment": false,
@@ -220,7 +220,7 @@
             []
         },
         "_id": "project-metadata-projectvalue",
-        "_rev": "3-d06646b702db454211ec43fd03d5fffb"
+        "_rev": "2-03aaeb19887c551c5c045bcbf57e0c2d"
     },
     {
         "is_attachment": false,
@@ -244,7 +244,7 @@
             }
         },
         "_id": "project-metadata-sections",
-        "_rev": "3-cded8841fc9acba1e1a6428663b97910"
+        "_rev": "2-a78714fd04a4644b6f5128a1e9d5aaa5"
     },
     {
         "fields":
@@ -262,7 +262,7 @@
                     "helperText": "autoincremented ID ",
                     "variant": "outlined",
                     "required": true,
-                    "template": "αβγ",
+                    "template": "mound-general-ID-general-ID",
                     "InputProps":
                     {
                         "type": "text",
@@ -273,7 +273,8 @@
                         "label": "Mound ID"
                     },
                     "hrid": true,
-                    "numberfield": "0"
+                    "numberfield": "0",
+                    "fieldselect10": "mound-general-ID"
                 },
                 "validationSchema":
                 [
@@ -325,7 +326,8 @@
                     },
                     "hrid": true,
                     "linked": "newfieldddcbbef7",
-                    "numberfield": "0"
+                    "numberfield": "0",
+                    "fieldselect10": "mound-general-ID"
                 },
                 "validationSchema":
                 [
@@ -373,8 +375,36 @@
                         "options":
                         [
                             {
-                                "value": "Burial Mound;Extinct Burial Mound;Natural Feature;Surface Scatter;Tell;Uncertain Feature;Other",
-                                "label": "Burial Mound;Extinct Burial Mound;Natural Feature;Surface Scatter;Tell;Uncertain Feature;Other"
+                                "value": "Burial Mound",
+                                "label": "Burial Mound"
+                            },
+                            {
+                                "value": "Extinct Burial Mound",
+                                "label": "Extinct Burial Mound"
+                            },
+                            {
+                                "value": "Natural Feature",
+                                "label": "Natural Feature"
+                            },
+                            {
+                                "value": "Surface Scatter",
+                                "label": "Surface Scatter"
+                            },
+                            {
+                                "value": "Tell",
+                                "label": "Tell"
+                            },
+                            {
+                                "value": "Uncertain Feature",
+                                "label": "Uncertain Feature"
+                            },
+                            {
+                                "value": "Other",
+                                "label": "Other"
+                            },
+                            {
+                                "value": "",
+                                "label": ""
                             }
                         ]
                     },
@@ -431,8 +461,28 @@
                         "options":
                         [
                             {
-                                "value": "Legacy verification;Survey;Remote sensing ground truthing;Local informant;Serendipity;Other",
-                                "label": "Legacy verification;Survey;Remote sensing ground truthing;Local informant;Serendipity;Other"
+                                "value": "Legacy verification",
+                                "label": "Legacy verification"
+                            },
+                            {
+                                "value": "Survey",
+                                "label": "Survey"
+                            },
+                            {
+                                "value": "Remote sensing ground truthing",
+                                "label": "Remote sensing ground truthing"
+                            },
+                            {
+                                "value": "Local informant",
+                                "label": "Local informant"
+                            },
+                            {
+                                "value": "Serendipity",
+                                "label": "Serendipity"
+                            },
+                            {
+                                "value": "Other",
+                                "label": "Other"
                             }
                         ]
                     },
@@ -537,8 +587,32 @@
                         "options":
                         [
                             {
-                                "value": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)",
-                                "label": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)"
+                                "value": "Annual agriculture",
+                                "label": "Annual agriculture"
+                            },
+                            {
+                                "value": "Perennial agriculture (e.g.orchard or vineyard)",
+                                "label": "Perennial agriculture (e.g.orchard or vineyard)"
+                            },
+                            {
+                                "value": "Pasture (grassland)",
+                                "label": "Pasture (grassland)"
+                            },
+                            {
+                                "value": "Scrub",
+                                "label": "Scrub"
+                            },
+                            {
+                                "value": "Forest",
+                                "label": "Forest"
+                            },
+                            {
+                                "value": "Urban (in a settlement or surrounded by infrastructure)",
+                                "label": "Urban (in a settlement or surrounded by infrastructure)"
+                            },
+                            {
+                                "value": "Other (explain in notes)",
+                                "label": "Other (explain in notes)"
                             }
                         ]
                     },
@@ -595,8 +669,32 @@
                         "options":
                         [
                             {
-                                "value": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)",
-                                "label": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)"
+                                "value": "Annual agriculture",
+                                "label": "Annual agriculture"
+                            },
+                            {
+                                "value": "Perennial agriculture (e.g.orchard or vineyard)",
+                                "label": "Perennial agriculture (e.g.orchard or vineyard)"
+                            },
+                            {
+                                "value": "Pasture (grassland)",
+                                "label": "Pasture (grassland)"
+                            },
+                            {
+                                "value": "Scrub",
+                                "label": "Scrub"
+                            },
+                            {
+                                "value": "Forest",
+                                "label": "Forest"
+                            },
+                            {
+                                "value": "Urban (in a settlement or surrounded by infrastructure)",
+                                "label": "Urban (in a settlement or surrounded by infrastructure)"
+                            },
+                            {
+                                "value": "Other (explain in notes)",
+                                "label": "Other (explain in notes)"
                             }
                         ]
                     },
@@ -653,8 +751,20 @@
                         "options":
                         [
                             {
-                                "value": "Valley Bottom or Plain;Upper slope;Lower slope;Hilltop",
-                                "label": "Valley Bottom or Plain;Upper slope;Lower slope;Hilltop"
+                                "value": "Valley Bottom or Plain",
+                                "label": "Valley Bottom or Plain"
+                            },
+                            {
+                                "value": "Upper slope",
+                                "label": "Upper slope"
+                            },
+                            {
+                                "value": "Lower slope",
+                                "label": "Lower slope"
+                            },
+                            {
+                                "value": "Hilltop",
+                                "label": "Hilltop"
                             }
                         ]
                     },
@@ -905,8 +1015,44 @@
                         "options":
                         [
                             {
-                                "value": "No Observation;North;Northeast;East;Southeast;South;Southwest;West;Northwest;Other",
-                                "label": "No Observation;North;Northeast;East;Southeast;South;Southwest;West;Northwest;Other"
+                                "value": "No Observation",
+                                "label": "No Observation"
+                            },
+                            {
+                                "value": "North",
+                                "label": "North"
+                            },
+                            {
+                                "value": "Northeast",
+                                "label": "Northeast"
+                            },
+                            {
+                                "value": "East",
+                                "label": "East"
+                            },
+                            {
+                                "value": "Southeast",
+                                "label": "Southeast"
+                            },
+                            {
+                                "value": "South",
+                                "label": "South"
+                            },
+                            {
+                                "value": "Southwest",
+                                "label": "Southwest"
+                            },
+                            {
+                                "value": "West",
+                                "label": "West"
+                            },
+                            {
+                                "value": "Northwest",
+                                "label": "Northwest"
+                            },
+                            {
+                                "value": "Other",
+                                "label": "Other"
                             }
                         ]
                     },
@@ -1558,7 +1704,7 @@
                     "fullWidth": true,
                     "name": "mound-material-photo",
                     "id": "mound-material-photo",
-                    "helperText": "Take a photo",
+                    "helperText": "Take a photo of the associated material",
                     "variant": "outlined",
                     "label": "Associated Feature or Material Photo"
                 },
@@ -3146,93 +3292,6 @@
                     }
                 }
             },
-            "mound-material-chronology":
-            {
-                "component-namespace": "formik-material-ui",
-                "component-name": "TextField",
-                "type-returned": "faims-core::String",
-                "component-parameters":
-                {
-                    "fullWidth": true,
-                    "helperText": "Helper Text",
-                    "variant": "outlined",
-                    "required": false,
-                    "InputProps":
-                    {
-                        "type": "text"
-                    },
-                    "SelectProps":
-                    {},
-                    "InputLabelProps":
-                    {
-                        "label": "Chronology Estimate"
-                    },
-                    "FormHelperTextProps":
-                    {},
-                    "id": "mound-material-chronology",
-                    "name": "mound-material-chronology"
-                },
-                "validationSchema":
-                [
-                    [
-                        "yup.string"
-                    ]
-                ],
-                "initialValue": "",
-                "access":
-                [
-                    "admin"
-                ],
-                "meta":
-                {
-                    "annotation_label": "annotation",
-                    "annotation": true,
-                    "uncertainty":
-                    {
-                        "include": true,
-                        "label": "uncertainty"
-                    }
-                }
-            },
-            "mound-material-photo":
-            {
-                "component-namespace": "faims-custom",
-                "component-name": "TakePhoto",
-                "type-returned": "faims-attachment::Files",
-                "component-parameters":
-                {
-                    "fullWidth": true,
-                    "name": "mound-material-photo",
-                    "id": "mound-material-photo",
-                    "helperText": "Take a photo of the associated material",
-                    "variant": "outlined",
-                    "label": "Associated Feature or Material Photo"
-                },
-                "validationSchema":
-                [
-                    [
-                        "yup.object"
-                    ],
-                    [
-                        "yup.nullable"
-                    ]
-                ],
-                "initialValue": null,
-                "access":
-                [
-                    "admin"
-                ],
-                "meta":
-                {
-                    "annotation_label": "annotation",
-                    "annotation": true,
-                    "uncertainty":
-                    {
-                        "include": true,
-                        "label": "uncertainty"
-                    }
-                }
-            },
             "mound-general-ID":
             {
                 "component-namespace": "faims-custom",
@@ -3362,6 +3421,6 @@
             "FORM1"
         ],
         "_id": "ui-specification",
-        "_rev": "3-e968eba92e5015a3cee98be5e44bfed5"
+        "_rev": "2-5e81b812516d65f8a5869440025268a6"
     }
 ]
