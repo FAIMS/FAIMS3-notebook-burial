@@ -1,1 +1,3581 @@
-[{"references":[],"_id":"local-autoincrementers","_rev":"2-9da07d6094fd67cd89998d9ece3c6c2c"},{"is_attachment":false,"metadata":{"accessFORM1":["admin","moderator","team"],"accessFORM2":["admin","moderator","team"],"accessFORM3":["admin","moderator","team"],"accessFORM4":["admin","moderator","team"],"accessFORM4SECTION1":["admin","moderator","team"],"accessFORM3SECTION1":["admin","moderator","team"],"accessFORM2SECTION1":["admin","moderator","team"],"accessFORM1SECTION1":["admin","moderator","team"],"accessFORM1SECTION2":["admin","moderator","team"],"accessFORM1SECTION3":["admin","moderator","team"],"accessFORM1SECTION4":["admin","moderator","team"]},"_id":"project-metadata-access","_rev":"2-ee52f4390ac995696579a906fb60a785"},{"is_attachment":false,"metadata":["admin","moderator","team"],"_id":"project-metadata-accesses","_rev":"2-57281ad43adb1c626b6712c50bd29606"},{"is_attachment":false,"metadata":{},"_id":"project-metadata-behavious","_rev":"2-1c1e70eda0fd9ccb266977d0f62e13ec"},{"is_attachment":false,"metadata":[],"_id":"project-metadata-filenames","_rev":"2-0e21d7026c192d6f8e1c192809e7a970"},{"is_attachment":false,"metadata":{"FORM1":{"submitActionFORM1":"Save and New","annotationFORM1":true,"uncertaintyFORM1":true,"formaccessinheritFORM1":true,"visibleFORM1":true},"FORM2":{"submitActionFORM2":"Save and New","annotationFORM2":true,"uncertaintyFORM2":true,"formaccessinheritFORM2":true,"visibleFORM2":true},"FORM3":{"submitActionFORM3":"Save and New","annotationFORM3":true,"uncertaintyFORM3":true,"formaccessinheritFORM3":true,"visibleFORM3":true},"FORM4":{"submitActionFORM4":"Save and New","annotationFORM4":true,"uncertaintyFORM4":true,"formaccessinheritFORM4":true,"visibleFORM4":true}},"_id":"project-metadata-forms","_rev":"2-a4fdd2432a0f316cce7160dcb2fd03ba"},{"is_attachment":false,"metadata":false,"_id":"project-metadata-ispublic","_rev":"2-df2511ff05f875033b7cf55771d06534"},{"is_attachment":false,"metadata":true,"_id":"project-metadata-isrequest","_rev":"3-75955d8ade46ec9d7c55a2939885234c"},{"is_attachment":false,"metadata":"Aarhus University, Yambol History Museum, Elhovo History Museum","_id":"project-metadata-lead_institution","_rev":"2-75382de7dc97a94188d4c1693f5b0274"},{"is_attachment":false,"metadata":{},"_id":"project-metadata-meta","_rev":"2-d9ce6af4a179d5e1702f8730a2f02446"},{"is_attachment":false,"metadata":"Module for the monitoring of burial mounds in the Yambol district, Bulgaria.","_id":"project-metadata-pre_description","_rev":"2-bb6e28058db9c87882da39e0b28556c3"},{"is_attachment":false,"metadata":"Adela Sobotkova, Todor Valchev, Christo Christov","_id":"project-metadata-project_lead","_rev":"2-f2c08498fbcbe38e7db65bcaddc8cd66"},{"is_attachment":false,"metadata":"pending","_id":"project-metadata-project_status","_rev":"3-ae294d8eabebaf187f91e6e3d9550c48"},{"is_attachment":false,"metadata":{"project_status":"pending","accesses":["admin","moderator","team"],"forms":{"FORM1":{"submitActionFORM1":"Save and New","annotationFORM1":true,"uncertaintyFORM1":true,"formaccessinheritFORM1":true,"visibleFORM1":true},"FORM2":{"submitActionFORM2":"Save and New","annotationFORM2":true,"uncertaintyFORM2":true,"formaccessinheritFORM2":true,"visibleFORM2":true},"FORM3":{"submitActionFORM3":"Save and New","annotationFORM3":true,"uncertaintyFORM3":true,"formaccessinheritFORM3":true,"visibleFORM3":true},"FORM4":{"submitActionFORM4":"Save and New","annotationFORM4":true,"uncertaintyFORM4":true,"formaccessinheritFORM4":true,"visibleFORM4":true}},"sections":{"FORM4SECTION1":{"sectionaccessinheritFORM4SECTION1":true},"FORM3SECTION1":{"sectionaccessinheritFORM3SECTION1":true},"FORM2SECTION1":{"sectionaccessinheritFORM2SECTION1":true},"FORM1SECTION1":{"sectionaccessinheritFORM1SECTION1":true},"FORM1SECTION2":{"sectionaccessinheritFORM1SECTION2":true},"FORM1SECTION3":{"sectionaccessinheritFORM1SECTION3":true},"FORM1SECTION4":{"sectionaccessinheritFORM1SECTION4":true}},"meta":{},"access":{"accessFORM1":["admin","moderator","team"],"accessFORM2":["admin","moderator","team"],"accessFORM3":["admin","moderator","team"],"accessFORM4":["admin","moderator","team"],"accessFORM4SECTION1":["admin","moderator","team"],"accessFORM3SECTION1":["admin","moderator","team"],"accessFORM2SECTION1":["admin","moderator","team"],"accessFORM1SECTION1":["admin","moderator","team"],"accessFORM1SECTION2":["admin","moderator","team"],"accessFORM1SECTION3":["admin","moderator","team"],"accessFORM1SECTION4":["admin","moderator","team"]},"ispublic":false,"isrequest":true,"behavious":{},"project_lead":"Adela Sobotkova, Todor Valchev, Christo Christov","lead_institution":"Aarhus University, Yambol History Museum, Elhovo History Museum","pre_description":"Module for the monitoring of burial mounds in the Yambol district, Bulgaria.","filenames":[]},"_id":"project-metadata-projectvalue","_rev":"3-d457cfb4a95415b5bcb9f433d0e30aef"},{"is_attachment":false,"metadata":{"FORM4SECTION1":{"sectionaccessinheritFORM4SECTION1":true},"FORM3SECTION1":{"sectionaccessinheritFORM3SECTION1":true},"FORM2SECTION1":{"sectionaccessinheritFORM2SECTION1":true},"FORM1SECTION1":{"sectionaccessinheritFORM1SECTION1":true},"FORM1SECTION2":{"sectionaccessinheritFORM1SECTION2":true},"FORM1SECTION3":{"sectionaccessinheritFORM1SECTION3":true},"FORM1SECTION4":{"sectionaccessinheritFORM1SECTION4":true}},"_id":"project-metadata-sections","_rev":"2-725d9188610b6338c45c1833c544ea8f"},{"fields":{"newfieldddcbbef7":{"component-namespace":"faims-custom","component-name":"TemplatedStringField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"name":"newfieldddcbbef7","id":"newfieldddcbbef7","helperText":"autoincremented ID ","variant":"outlined","required":true,"template":"αβγ","InputProps":{"type":"text","readOnly":true},"InputLabelProps":{"label":"Mound ID"},"hrid":true,"numberfield":"0"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"hridFORM1":{"component-namespace":"faims-custom","component-name":"TemplatedStringField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"name":"hridFORM1","id":"hridFORM1","helperText":"autoincremented ID ","variant":"outlined","required":true,"template":" {{}}","InputProps":{"type":"text","readOnly":true},"InputLabelProps":{"label":"Mound ID"},"hrid":true,"linked":"newfieldddcbbef7","numberfield":"0"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield3fd33bc3":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Classify what feature you have encountered","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Burial Mound;Extinct Burial Mound;Natural Feature;Surface Scatter;Tell;Uncertain Feature;Other","label":"Burial Mound;Extinct Burial Mound;Natural Feature;Surface Scatter;Tell;Uncertain Feature;Other"}]},"InputLabelProps":{"label":"Feature Type"},"id":"newfield3fd33bc3","name":"newfield3fd33bc3"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldecaa05d6":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"How was the feature initially located?","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Legacy verification;Survey;Remote sensing ground truthing;Local informant;Serendipity;Other","label":"Legacy verification;Survey;Remote sensing ground truthing;Local informant;Serendipity;Other"}]},"InputLabelProps":{"label":"Source"},"id":"newfieldecaa05d6","name":"newfieldecaa05d6"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldad3975a2":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Description of Mound or Locale"},"FormHelperTextProps":{},"id":"newfieldad3975a2","name":"newfieldad3975a2"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield32470c98":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)","label":"Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)"}]},"InputLabelProps":{"label":"Landuse around Mound"},"id":"newfield32470c98","name":"newfield32470c98"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield81473893":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)","label":"Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)"}]},"InputLabelProps":{"label":"Landuse on top of Mound"},"id":"newfield81473893","name":"newfield81473893"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldeb4b4171":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"","variant":"outlined","required":false,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Valley Bottom or Plain;Upper slope;Lower slope;Hilltop","label":"Valley Bottom or Plain;Upper slope;Lower slope;Hilltop"}]},"InputLabelProps":{"label":"Prominence"},"id":"newfieldeb4b4171","name":"newfieldeb4b4171"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield64c9faf1":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Super","label":"Super"}]},"InputLabelProps":{"label":"Mound prominence"},"id":"newfield64c9faf1","name":"newfield64c9faf1"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfielddf908572":{"component-namespace":"faims-custom","component-name":"TakePoint","type-returned":"faims-pos::Location","component-parameters":{"fullWidth":true,"name":"newfielddf908572","id":"newfielddf908572","helperText":"Click to save current location","variant":"outlined","label":"Latitude and Longitude","required":true},"validationSchema":[["yup.object"],["yup.nullable"],["yup.required"]],"initialValue":null,"access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield3d7cd78e":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Handheld GPS point"},"FormHelperTextProps":{},"id":"newfield3d7cd78e","name":"newfield3d7cd78e"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield8b7e5a20":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Elevation (MASL)"},"FormHelperTextProps":{},"id":"newfield8b7e5a20","name":"newfield8b7e5a20"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield542eb1f9":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"No Observation;North;Northeast;East;Southeast;South;Southwest;West;Northwest;Other","label":"No Observation;North;Northeast;East;Southeast;South;Southwest;West;Northwest;Other"}]},"InputLabelProps":{"label":"Facing Direction for Photo"},"id":"newfield542eb1f9","name":"newfield542eb1f9"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield3be25a3b":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Notes and Photo ID"},"FormHelperTextProps":{},"id":"newfield3be25a3b","name":"newfield3be25a3b"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfielda3fa8268":{"component-namespace":"faims-custom","component-name":"TakePhoto","type-returned":"faims-attachment::Files","component-parameters":{"fullWidth":true,"name":"newfielda3fa8268","id":"newfielda3fa8268","helperText":"Take a photo from a distance making sure to encompass the entire feature with a scale.","variant":"outlined","label":"Overview Photo","required":true},"validationSchema":[["yup.object"],["yup.nullable"],["yup.required"]],"initialValue":null,"access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield0e9add6d":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Height Max (m)"},"FormHelperTextProps":{},"id":"newfield0e9add6d","name":"newfield0e9add6d"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield527f9a29":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Height Min (m)"},"FormHelperTextProps":{},"id":"newfield527f9a29","name":"newfield527f9a29"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldd6556ff1":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Diameter Max (m)"},"FormHelperTextProps":{},"id":"newfieldd6556ff1","name":"newfieldd6556ff1"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldf97079b9":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{},"SelectProps":{},"InputLabelProps":{"label":"Diameter Min (m)"},"FormHelperTextProps":{},"id":"newfieldf97079b9","name":"newfieldf97079b9"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield7b1edfa9":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Other Dimension"},"FormHelperTextProps":{},"id":"newfield7b1edfa9","name":"newfield7b1edfa9"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield8c6adff2":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"string"},"SelectProps":{},"InputLabelProps":{"label":"Shape Notes"},"FormHelperTextProps":{},"id":"newfield8c6adff2","name":"newfield8c6adff2"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield72146473":{"component-namespace":"faims-custom","component-name":"Checkbox","type-returned":"faims-core::Bool","component-parameters":{"name":"newfield72146473","id":"newfield72146473","required":false,"type":"checkbox","FormControlLabelProps":{"label":"Associated Feature or Material"},"FormHelperTextProps":{"children":"There is no place to enter the checkbox items in this CHeckboxfield"}},"validationSchema":[["yup.bool"]],"initialValue":false,"access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldc7767e65":{"component-namespace":"faims-custom","component-name":"RadioGroup","type-returned":"faims-core::String","component-parameters":{"name":"newfieldc7767e65","id":"newfieldc7767e65","variant":"outlined","required":true,"ElementProps":{"options":[{"value":"Yes","label":"Yes","RadioProps":{"id":"radio-group-field-0"}},{"value":"No","label":"No","RadioProps":{"id":"radio-group-field-1"}}]},"FormLabelProps":{"children":"Sample Collected?"},"FormHelperTextProps":{"children":"Make sure you choose the right one!"}},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"1","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield81a0249b":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Surface Material Description"},"FormHelperTextProps":{},"id":"newfield81a0249b","name":"newfield81a0249b"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfielddc516a4a":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Chronology Estimate"},"FormHelperTextProps":{},"id":"newfielddc516a4a","name":"newfielddc516a4a"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldcd61282c":{"component-namespace":"faims-custom","component-name":"TakePhoto","type-returned":"faims-attachment::Files","component-parameters":{"fullWidth":true,"name":"newfieldcd61282c","id":"newfieldcd61282c","helperText":"Take a photo","variant":"outlined","label":"Associated Feature or Material Photo"},"validationSchema":[["yup.object"],["yup.nullable"]],"initialValue":null,"access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldeba068ce":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"0 - No observation","label":"0 - No observation"},{"value":"1 - pristine","label":"1 - pristine"},{"value":"2 - minor damage","label":"2 - minor damage"},{"value":"3 - damage","label":"3 - damage"},{"value":"4 - seriously damaged","label":"4 - seriously damaged"},{"value":"5 - extinct or near extinct","label":"5 - extinct or near extinct"}]},"InputLabelProps":{"label":"Condition"},"id":"newfieldeba068ce","name":"newfieldeba068ce"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield57142e2d":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"No observation","label":"No observation"},{"value":"Anthropogenic","label":"Anthropogenic"},{"value":"Animal activity","label":"Animal activity"},{"value":" Post-depositional","label":" Post-depositional"},{"value":"Other","label":"Other"}]},"InputLabelProps":{"label":"Principal Source of Impact"},"id":"newfield57142e2d","name":"newfield57142e2d"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldc5a661db":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Other Sources of Impact"},"FormHelperTextProps":{},"id":"newfieldc5a661db","name":"newfieldc5a661db"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield63aa4c38":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"0 - No observation","label":"0 - No observation"},{"value":"1 - full","label":"1 - full"},{"value":"2 - good","label":"2 - good"},{"value":"3 - impaired","label":"3 - impaired"},{"value":"4 - minimal","label":"4 - minimal"},{"value":"5 - none or nearly none","label":"5 - none or nearly none"}]},"InputLabelProps":{"label":"Archaeological potential"},"id":"newfield63aa4c38","name":"newfield63aa4c38"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield6fcfe13c":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Agriculture","label":"Agriculture"},{"value":"Looting","label":"Looting"},{"value":"Development","label":"Development"},{"value":"Animal activity","label":"Animal activity"},{"value":"Post-depositional","label":"Post-depositional"},{"value":"Other","label":"Other"},{"value":"Not available","label":"Not available"}]},"InputLabelProps":{"label":"Most recent damage (what)"},"id":"newfield6fcfe13c","name":"newfield6fcfe13c"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield328d8472":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Last week","label":"Last week"},{"value":"Last month","label":"Last month"},{"value":"Last year","label":"Last year"},{"value":"Unknown","label":"Unknown"},{"value":" Other","label":" Other"},{"value":" Not available","label":" Not available"}]},"InputLabelProps":{"label":"Most recent damage (when)"},"id":"newfield328d8472","name":"newfield328d8472"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield934f0c24":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"RT Description"},"FormHelperTextProps":{},"id":"newfield934f0c24","name":"newfield934f0c24"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield2fb81d29":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Comments and Recommendations"},"FormHelperTextProps":{},"id":"newfield2fb81d29","name":"newfield2fb81d29"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield0352cc76":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"5 - extinct or near extinct","label":"5 - extinct or near extinct"},{"value":"4 - seriously damaged","label":"4 - seriously damaged"},{"value":"3 - damage","label":"3 - damage"},{"value":"2 - minor damage","label":"2 - minor damage"},{"value":"1 - pristine","label":"1 - pristine"},{"value":"0 - No observation","label":"0 - No observation"},{"value":"","label":""}]},"InputLabelProps":{"label":"Condition"},"id":"newfield0352cc76","name":"newfield0352cc76"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield54499ac5":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Other","label":"Other"},{"value":" Post-depositional","label":" Post-depositional"},{"value":"Animal activity","label":"Animal activity"},{"value":"Anthropogenic","label":"Anthropogenic"},{"value":"No observation","label":"No observation"},{"value":"","label":""}]},"InputLabelProps":{"label":"Principal Source of Impact"},"id":"newfield54499ac5","name":"newfield54499ac5"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldde78a4e1":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Other Sources of Impact"},"FormHelperTextProps":{},"id":"newfieldde78a4e1","name":"newfieldde78a4e1"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldd3c8a900":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"5 - none or nearly none","label":"5 - none or nearly none"},{"value":"4 - minimal","label":"4 - minimal"},{"value":"3 - impaired","label":"3 - impaired"},{"value":"2 - good","label":"2 - good"},{"value":"1 - full","label":"1 - full"},{"value":"0 - No observation","label":"0 - No observation"}]},"InputLabelProps":{"label":"Archaeological potential"},"id":"newfieldd3c8a900","name":"newfieldd3c8a900"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield43cdcd4e":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":"Post-depositional","label":"Post-depositional"},{"value":"Animal activity","label":"Animal activity"},{"value":"Development","label":"Development"},{"value":"Looting","label":"Looting"},{"value":"Agriculture","label":"Agriculture"},{"value":"Not available","label":"Not available"},{"value":"Other","label":"Other"}]},"InputLabelProps":{"label":"Most recent damage (what)"},"id":"newfield43cdcd4e","name":"newfield43cdcd4e"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldda7b1daa":{"component-namespace":"faims-custom","component-name":"Select","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Choose a field from the dropdown","variant":"outlined","required":true,"select":true,"InputProps":{},"SelectProps":{},"ElementProps":{"options":[{"value":" Not available","label":" Not available"},{"value":" Other","label":" Other"},{"value":"Unknown","label":"Unknown"},{"value":"Last year","label":"Last year"},{"value":"Last month","label":"Last month"},{"value":"Last week","label":"Last week"},{"value":"","label":""}]},"InputLabelProps":{"label":"Most recent damage (when)"},"id":"newfieldda7b1daa","name":"newfieldda7b1daa"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldde5569c9":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"RT Description"},"FormHelperTextProps":{},"id":"newfieldde5569c9","name":"newfieldde5569c9"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldb5953ab6":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Comments and Recommendations"},"FormHelperTextProps":{},"id":"newfieldb5953ab6","name":"newfieldb5953ab6"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield516c262c":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Height Max (m)"},"FormHelperTextProps":{},"id":"newfield516c262c","name":"newfield516c262c"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldd92933f2":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Height Min (m)"},"FormHelperTextProps":{},"id":"newfieldd92933f2","name":"newfieldd92933f2"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldf497f391":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Diameter Max (m)"},"FormHelperTextProps":{},"id":"newfieldf497f391","name":"newfieldf497f391"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield3a99efa6":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::Integer","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"number"},"SelectProps":{},"InputLabelProps":{"label":"Diameter Min (m)"},"FormHelperTextProps":{},"id":"newfield3a99efa6","name":"newfield3a99efa6"},"validationSchema":[["yup.number"],["yup.min",1],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield9eaf0b33":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"string"},"SelectProps":{},"InputLabelProps":{"label":"Other Dimension"},"FormHelperTextProps":{},"id":"newfield9eaf0b33","name":"newfield9eaf0b33"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield6c356183":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":true,"InputProps":{"type":"string"},"SelectProps":{},"InputLabelProps":{"label":"Shape Notes"},"FormHelperTextProps":{},"id":"newfield6c356183","name":"newfield6c356183"},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldc2c02075":{"component-namespace":"faims-custom","component-name":"Checkbox","type-returned":"faims-core::Bool","component-parameters":{"name":"newfieldc2c02075","id":"newfieldc2c02075","required":false,"type":"checkbox","FormControlLabelProps":{"label":"Associated Feature or Material"},"FormHelperTextProps":{"children":"There is no place to enter the checkbox items in this Checkboxfield"}},"validationSchema":[["yup.bool"]],"initialValue":false,"access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfieldcaf9fb88":{"component-namespace":"faims-custom","component-name":"RadioGroup","type-returned":"faims-core::String","component-parameters":{"name":"newfieldcaf9fb88","id":"newfieldcaf9fb88","variant":"outlined","required":true,"ElementProps":{"options":[{"value":"Yes","label":"Yes","RadioProps":{"id":"radio-group-field-0"}},{"value":"No","label":"No","RadioProps":{"id":"radio-group-field-1"}}]},"FormLabelProps":{"children":"Sample Collected?"},"FormHelperTextProps":{"children":"Make sure you choose the right one!"}},"validationSchema":[["yup.string"],["yup.required"]],"initialValue":"1","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfielda7746482":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Surface Material Description"},"FormHelperTextProps":{},"id":"newfielda7746482","name":"newfielda7746482"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield2f5c74f1":{"component-namespace":"formik-material-ui","component-name":"TextField","type-returned":"faims-core::String","component-parameters":{"fullWidth":true,"helperText":"Helper Text","variant":"outlined","required":false,"InputProps":{"type":"text"},"SelectProps":{},"InputLabelProps":{"label":"Chronology Estimate"},"FormHelperTextProps":{},"id":"newfield2f5c74f1","name":"newfield2f5c74f1"},"validationSchema":[["yup.string"]],"initialValue":"","access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}},"newfield0c74bc11":{"component-namespace":"faims-custom","component-name":"TakePhoto","type-returned":"faims-attachment::Files","component-parameters":{"fullWidth":true,"name":"newfield0c74bc11","id":"newfield0c74bc11","helperText":"Take a photo of the associated material","variant":"outlined","label":"Associated Feature or Material Photo"},"validationSchema":[["yup.object"],["yup.nullable"]],"initialValue":null,"access":["admin"],"meta":{"annotation_label":"annotation","annotation":true,"uncertainty":{"include":true,"label":"uncertainty"}}}},"fviews":{"FORM1SECTION1":{"fields":["hridFORM1","newfield3fd33bc3","newfieldecaa05d6","newfieldad3975a2","newfield32470c98","newfield81473893","newfieldeb4b4171","newfield64c9faf1","newfielddf908572","newfield3d7cd78e","newfield8b7e5a20","newfield542eb1f9","newfield3be25a3b","newfielda3fa8268"],"uidesign":"form","label":"General"},"FORM2SECTION1":{"fields":["newfield0e9add6d","newfield527f9a29","newfieldd6556ff1","newfieldf97079b9","newfield7b1edfa9","newfield8c6adff2"],"uidesign":"form","label":"SECTION1"},"FORM3SECTION1":{"fields":["newfield72146473","newfieldc7767e65","newfield81a0249b","newfielddc516a4a","newfieldcd61282c"],"uidesign":"form","label":"SECTION1"},"FORM4SECTION1":{"fields":["newfieldeba068ce","newfield57142e2d","newfieldc5a661db","newfield63aa4c38","newfield6fcfe13c","newfield328d8472","newfield934f0c24","newfield2fb81d29"],"uidesign":"form","label":"SECTION1"},"FORM1SECTION2":{"fields":["newfield516c262c","newfieldd92933f2","newfieldf497f391","newfield3a99efa6","newfield9eaf0b33","newfield6c356183"],"uidesign":"form","label":"Dimensions"},"FORM1SECTION3":{"fields":["newfieldc2c02075","newfieldcaf9fb88","newfielda7746482","newfield2f5c74f1","newfield0c74bc11"],"uidesign":"form","label":"Material"},"FORM1SECTION4":{"fields":["newfield0352cc76","newfield54499ac5","newfieldde78a4e1","newfieldd3c8a900","newfield43cdcd4e","newfieldda7b1daa","newfieldde5569c9","newfieldb5953ab6"],"uidesign":"form","label":"CRM"}},"viewsets":{"FORM1":{"views":["FORM1SECTION1","FORM1SECTION2","FORM1SECTION3","FORM1SECTION4"],"label":"Mound"},"FORM2":{"views":["FORM2SECTION1"],"label":""},"FORM3":{"views":["FORM3SECTION1"],"label":""},"FORM4":{"views":["FORM4SECTION1"],"label":""}},"visible_types":["FORM1","FORM2","FORM3","FORM4"],"_id":"ui-specification","_rev":"2-689ff0c14e9763a482b21fb35f3003ff"}]
+[
+    {
+        "references":
+        [
+            {
+                "form_id": "FORM1SECTION1",
+                "field_id": "mound-general-ID",
+                "label": "Mound ID"
+            }
+        ],
+        "_id": "local-autoincrementers",
+        "_rev": "3-08326e2e822d63781c997b82e0e0da5a"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        {
+            "accessFORM1":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM2":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM3":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM4":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM4SECTION1":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM3SECTION1":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM2SECTION1":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM1SECTION1":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM1SECTION2":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM1SECTION3":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "accessFORM1SECTION4":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ]
+        },
+        "_id": "project-metadata-access",
+        "_rev": "3-5d7c37796fab315534cb2996c87017f8"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        [
+            "admin",
+            "moderator",
+            "team"
+        ],
+        "_id": "project-metadata-accesses",
+        "_rev": "3-7f1d3c80499ccbf017d4a888ca6ff4c2"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        {},
+        "_id": "project-metadata-behavious",
+        "_rev": "3-deeadb776e390788d5996b19ea0f7852"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        [],
+        "_id": "project-metadata-filenames",
+        "_rev": "3-603af4103e4fc72bb4ea245e7c8b38d6"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        {
+            "FORM1":
+            {
+                "submitActionFORM1": "Save and New",
+                "annotationFORM1": true,
+                "uncertaintyFORM1": true,
+                "formaccessinheritFORM1": true,
+                "visibleFORM1": true
+            },
+            "FORM2":
+            {
+                "submitActionFORM2": "Save and New",
+                "annotationFORM2": true,
+                "uncertaintyFORM2": true,
+                "formaccessinheritFORM2": true,
+                "visibleFORM2": true
+            },
+            "FORM3":
+            {
+                "submitActionFORM3": "Save and New",
+                "annotationFORM3": true,
+                "uncertaintyFORM3": true,
+                "formaccessinheritFORM3": true,
+                "visibleFORM3": true
+            },
+            "FORM4":
+            {
+                "submitActionFORM4": "Save and New",
+                "annotationFORM4": true,
+                "uncertaintyFORM4": true,
+                "formaccessinheritFORM4": true,
+                "visibleFORM4": true
+            }
+        },
+        "_id": "project-metadata-forms",
+        "_rev": "3-0a702fcd4af061cb98ffb5c65733f676"
+    },
+    {
+        "is_attachment": false,
+        "metadata": false,
+        "_id": "project-metadata-ispublic",
+        "_rev": "3-731e5dfa5916b3b8d29ee3ae8a92d39f"
+    },
+    {
+        "is_attachment": false,
+        "metadata": true,
+        "_id": "project-metadata-isrequest",
+        "_rev": "3-27216f5b862eebb51727b1d4d69d74d9"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "Aarhus University, Yambol History Museum, Elhovo History Museum",
+        "_id": "project-metadata-lead_institution",
+        "_rev": "3-a02f9ca0ed5b702595d335241c119999"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        {},
+        "_id": "project-metadata-meta",
+        "_rev": "3-bdd515254099e8636c8aaf0aa81a9429"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "Module for the monitoring of burial mounds in the Yambol district, Bulgaria.",
+        "_id": "project-metadata-pre_description",
+        "_rev": "3-afd2185b22196ff9bf976c5ecc1dd830"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "Adela Sobotkova, Todor Valchev, Christo Christov",
+        "_id": "project-metadata-project_lead",
+        "_rev": "3-48aea14a12d7b619aac5c15e387dbb79"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "",
+        "_id": "project-metadata-project_status",
+        "_rev": "3-267c6d50ae12a5806be12738cfc80da9"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        {
+            "project_status": "",
+            "accesses":
+            [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "forms":
+            {
+                "FORM1":
+                {
+                    "submitActionFORM1": "Save and New",
+                    "annotationFORM1": true,
+                    "uncertaintyFORM1": true,
+                    "formaccessinheritFORM1": true,
+                    "visibleFORM1": true
+                },
+                "FORM2":
+                {
+                    "submitActionFORM2": "Save and New",
+                    "annotationFORM2": true,
+                    "uncertaintyFORM2": true,
+                    "formaccessinheritFORM2": true,
+                    "visibleFORM2": true
+                },
+                "FORM3":
+                {
+                    "submitActionFORM3": "Save and New",
+                    "annotationFORM3": true,
+                    "uncertaintyFORM3": true,
+                    "formaccessinheritFORM3": true,
+                    "visibleFORM3": true
+                },
+                "FORM4":
+                {
+                    "submitActionFORM4": "Save and New",
+                    "annotationFORM4": true,
+                    "uncertaintyFORM4": true,
+                    "formaccessinheritFORM4": true,
+                    "visibleFORM4": true
+                }
+            },
+            "sections":
+            {
+                "FORM4SECTION1":
+                {
+                    "sectionaccessinheritFORM4SECTION1": true
+                },
+                "FORM3SECTION1":
+                {
+                    "sectionaccessinheritFORM3SECTION1": true
+                },
+                "FORM2SECTION1":
+                {
+                    "sectionaccessinheritFORM2SECTION1": true
+                },
+                "FORM1SECTION1":
+                {
+                    "sectionaccessinheritFORM1SECTION1": true
+                },
+                "FORM1SECTION2":
+                {
+                    "sectionaccessinheritFORM1SECTION2": true
+                },
+                "FORM1SECTION3":
+                {
+                    "sectionaccessinheritFORM1SECTION3": true
+                },
+                "FORM1SECTION4":
+                {
+                    "sectionaccessinheritFORM1SECTION4": true
+                }
+            },
+            "meta":
+            {},
+            "access":
+            {
+                "accessFORM1":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM2":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM3":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM4":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM4SECTION1":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM3SECTION1":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM2SECTION1":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM1SECTION1":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM1SECTION2":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM1SECTION3":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ],
+                "accessFORM1SECTION4":
+                [
+                    "admin",
+                    "moderator",
+                    "team"
+                ]
+            },
+            "ispublic": false,
+            "isrequest": true,
+            "behavious":
+            {},
+            "project_lead": "Adela Sobotkova, Todor Valchev, Christo Christov",
+            "lead_institution": "Aarhus University, Yambol History Museum, Elhovo History Museum",
+            "pre_description": "Module for the monitoring of burial mounds in the Yambol district, Bulgaria.",
+            "filenames":
+            []
+        },
+        "_id": "project-metadata-projectvalue",
+        "_rev": "3-d06646b702db454211ec43fd03d5fffb"
+    },
+    {
+        "is_attachment": false,
+        "metadata":
+        {
+            "FORM4SECTION1":
+            {
+                "sectionaccessinheritFORM4SECTION1": true
+            },
+            "FORM3SECTION1":
+            {
+                "sectionaccessinheritFORM3SECTION1": true
+            },
+            "FORM2SECTION1":
+            {
+                "sectionaccessinheritFORM2SECTION1": true
+            },
+            "FORM1SECTION1":
+            {
+                "sectionaccessinheritFORM1SECTION1": true
+            },
+            "FORM1SECTION2":
+            {
+                "sectionaccessinheritFORM1SECTION2": true
+            },
+            "FORM1SECTION3":
+            {
+                "sectionaccessinheritFORM1SECTION3": true
+            },
+            "FORM1SECTION4":
+            {
+                "sectionaccessinheritFORM1SECTION4": true
+            }
+        },
+        "_id": "project-metadata-sections",
+        "_rev": "3-cded8841fc9acba1e1a6428663b97910"
+    },
+    {
+        "fields":
+        {
+            "newfieldddcbbef7":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "TemplatedStringField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "name": "newfieldddcbbef7",
+                    "id": "newfieldddcbbef7",
+                    "helperText": "autoincremented ID ",
+                    "variant": "outlined",
+                    "required": true,
+                    "template": "αβγ",
+                    "InputProps":
+                    {
+                        "type": "text",
+                        "readOnly": true
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Mound ID"
+                    },
+                    "hrid": true,
+                    "numberfield": "0"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "hridFORM1":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "TemplatedStringField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "name": "hridFORM1",
+                    "id": "hridFORM1",
+                    "helperText": "autoincremented ID ",
+                    "variant": "outlined",
+                    "required": true,
+                    "template": "{{mound-general-ID}}",
+                    "InputProps":
+                    {
+                        "type": "text",
+                        "readOnly": true
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Mound ID"
+                    },
+                    "hrid": true,
+                    "linked": "newfieldddcbbef7",
+                    "numberfield": "0"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-feature-type":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Classify what feature you have encountered",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Burial Mound;Extinct Burial Mound;Natural Feature;Surface Scatter;Tell;Uncertain Feature;Other",
+                                "label": "Burial Mound;Extinct Burial Mound;Natural Feature;Surface Scatter;Tell;Uncertain Feature;Other"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Feature Type"
+                    },
+                    "id": "mound-general-feature-type",
+                    "name": "mound-general-feature-type"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-source":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "How was the feature initially located?",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Legacy verification;Survey;Remote sensing ground truthing;Local informant;Serendipity;Other",
+                                "label": "Legacy verification;Survey;Remote sensing ground truthing;Local informant;Serendipity;Other"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Source"
+                    },
+                    "id": "mound-general-source",
+                    "name": "mound-general-source"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-description":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Description of Mound or Locale"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-general-description",
+                    "name": "mound-general-description"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-landusearound":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)",
+                                "label": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Landuse around Mound"
+                    },
+                    "id": "mound-general-landusearound",
+                    "name": "mound-general-landusearound"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-landuseontop":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)",
+                                "label": "Annual agriculture;Perennial agriculture (e.g.orchard or vineyard);Pasture (grassland);Scrub;Forest;Urban (in a settlement or surrounded by infrastructure);Other (explain in notes)"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Landuse on top of Mound"
+                    },
+                    "id": "mound-general-landuseontop",
+                    "name": "mound-general-landuseontop"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-positioninlandscape":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "required": false,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Valley Bottom or Plain;Upper slope;Lower slope;Hilltop",
+                                "label": "Valley Bottom or Plain;Upper slope;Lower slope;Hilltop"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Prominence"
+                    },
+                    "id": "mound-general-positioninlandscape",
+                    "name": "mound-general-positioninlandscape"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-prominence":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Super",
+                                "label": "Super"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Mound prominence"
+                    },
+                    "id": "mound-general-prominence",
+                    "name": "mound-general-prominence"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-latlong":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "TakePoint",
+                "type-returned": "faims-pos::Location",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "name": "mound-general-latlong",
+                    "id": "mound-general-latlong",
+                    "helperText": "Click to save current location",
+                    "variant": "outlined",
+                    "label": "Latitude and Longitude",
+                    "required": true
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.object"
+                    ],
+                    [
+                        "yup.nullable"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": null,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-handheldGPS":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Handheld GPS point"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-general-handheldGPS",
+                    "name": "mound-general-handheldGPS"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-elevation":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Elevation (MASL)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-general-elevation",
+                    "name": "mound-general-elevation"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-facingphotodirection":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "No Observation;North;Northeast;East;Southeast;South;Southwest;West;Northwest;Other",
+                                "label": "No Observation;North;Northeast;East;Southeast;South;Southwest;West;Northwest;Other"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Facing Direction for Photo"
+                    },
+                    "id": "mound-general-facingphotodirection",
+                    "name": "mound-general-facingphotodirection"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-externalphotoid":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Notes and Photo ID"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-general-externalphotoid",
+                    "name": "mound-general-externalphotoid"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-overviewphoto":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "TakePhoto",
+                "type-returned": "faims-attachment::Files",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "name": "mound-general-overviewphoto",
+                    "id": "mound-general-overviewphoto",
+                    "helperText": "Take a photo from a distance making sure to encompass the entire feature with a scale.",
+                    "variant": "outlined",
+                    "label": "Overview Photo",
+                    "required": true
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.object"
+                    ],
+                    [
+                        "yup.nullable"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": null,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-measure-heightmax":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Height Max (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-measure-heightmax",
+                    "name": "mound-measure-heightmax"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-measure-heightmin":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Height Min (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-measure-heightmin",
+                    "name": "mound-measure-heightmin"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-measure-diammax":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Diameter Max (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-measure-diammax",
+                    "name": "mound-measure-diammax"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-measure-diammin":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Diameter Min (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-measure-diammin",
+                    "name": "mound-measure-diammin"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-measure-otherdimension":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Other Dimension"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-measure-otherdimension",
+                    "name": "mound-measure-otherdimension"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-measure-shapenote":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "string"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Shape Notes"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-measure-shapenote",
+                    "name": "mound-measure-shapenote"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-assocmaterial":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Checkbox",
+                "type-returned": "faims-core::Bool",
+                "component-parameters":
+                {
+                    "name": "mound-material-assocmaterial",
+                    "id": "mound-material-assocmaterial",
+                    "required": false,
+                    "type": "checkbox",
+                    "FormControlLabelProps":
+                    {
+                        "label": "Associated Feature or Material"
+                    },
+                    "FormHelperTextProps":
+                    {
+                        "children": "There is no place to enter the checkbox items in this CHeckboxfield"
+                    }
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.bool"
+                    ]
+                ],
+                "initialValue": false,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-samplecollected":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "RadioGroup",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "name": "mound-material-samplecollected",
+                    "id": "mound-material-samplecollected",
+                    "variant": "outlined",
+                    "required": true,
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Yes",
+                                "label": "Yes",
+                                "RadioProps":
+                                {
+                                    "id": "radio-group-field-0"
+                                }
+                            },
+                            {
+                                "value": "No",
+                                "label": "No",
+                                "RadioProps":
+                                {
+                                    "id": "radio-group-field-1"
+                                }
+                            }
+                        ]
+                    },
+                    "FormLabelProps":
+                    {
+                        "children": "Sample Collected?"
+                    },
+                    "FormHelperTextProps":
+                    {
+                        "children": "Make sure you choose the right one!"
+                    }
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "1",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-description":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Surface Material Description"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-material-description",
+                    "name": "mound-material-description"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-chronology":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Chronology Estimate"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-material-chronology",
+                    "name": "mound-material-chronology"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-photo":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "TakePhoto",
+                "type-returned": "faims-attachment::Files",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "name": "mound-material-photo",
+                    "id": "mound-material-photo",
+                    "helperText": "Take a photo",
+                    "variant": "outlined",
+                    "label": "Associated Feature or Material Photo"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.object"
+                    ],
+                    [
+                        "yup.nullable"
+                    ]
+                ],
+                "initialValue": null,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-condition":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "0 - No observation",
+                                "label": "0 - No observation"
+                            },
+                            {
+                                "value": "1 - pristine",
+                                "label": "1 - pristine"
+                            },
+                            {
+                                "value": "2 - minor damage",
+                                "label": "2 - minor damage"
+                            },
+                            {
+                                "value": "3 - damage",
+                                "label": "3 - damage"
+                            },
+                            {
+                                "value": "4 - seriously damaged",
+                                "label": "4 - seriously damaged"
+                            },
+                            {
+                                "value": "5 - extinct or near extinct",
+                                "label": "5 - extinct or near extinct"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Condition"
+                    },
+                    "id": "mound-crm-condition",
+                    "name": "mound-crm-condition"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-principalimpact":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "No observation",
+                                "label": "No observation"
+                            },
+                            {
+                                "value": "Anthropogenic",
+                                "label": "Anthropogenic"
+                            },
+                            {
+                                "value": "Animal activity",
+                                "label": "Animal activity"
+                            },
+                            {
+                                "value": " Post-depositional",
+                                "label": " Post-depositional"
+                            },
+                            {
+                                "value": "Other",
+                                "label": "Other"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Principal Source of Impact"
+                    },
+                    "id": "mound-crm-principalimpact",
+                    "name": "mound-crm-principalimpact"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-otherimpact":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Other Sources of Impact"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-crm-otherimpact",
+                    "name": "mound-crm-otherimpact"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-potential":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "0 - No observation",
+                                "label": "0 - No observation"
+                            },
+                            {
+                                "value": "1 - full",
+                                "label": "1 - full"
+                            },
+                            {
+                                "value": "2 - good",
+                                "label": "2 - good"
+                            },
+                            {
+                                "value": "3 - impaired",
+                                "label": "3 - impaired"
+                            },
+                            {
+                                "value": "4 - minimal",
+                                "label": "4 - minimal"
+                            },
+                            {
+                                "value": "5 - none or nearly none",
+                                "label": "5 - none or nearly none"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Archaeological potential"
+                    },
+                    "id": "mound-crm-potential",
+                    "name": "mound-crm-potential"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-damage-what":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Agriculture",
+                                "label": "Agriculture"
+                            },
+                            {
+                                "value": "Looting",
+                                "label": "Looting"
+                            },
+                            {
+                                "value": "Development",
+                                "label": "Development"
+                            },
+                            {
+                                "value": "Animal activity",
+                                "label": "Animal activity"
+                            },
+                            {
+                                "value": "Post-depositional",
+                                "label": "Post-depositional"
+                            },
+                            {
+                                "value": "Other",
+                                "label": "Other"
+                            },
+                            {
+                                "value": "Not available",
+                                "label": "Not available"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Most recent damage (what)"
+                    },
+                    "id": "mound-crm-damage-what",
+                    "name": "mound-crm-damage-what"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-damage-when":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Last week",
+                                "label": "Last week"
+                            },
+                            {
+                                "value": "Last month",
+                                "label": "Last month"
+                            },
+                            {
+                                "value": "Last year",
+                                "label": "Last year"
+                            },
+                            {
+                                "value": "Unknown",
+                                "label": "Unknown"
+                            },
+                            {
+                                "value": " Other",
+                                "label": " Other"
+                            },
+                            {
+                                "value": " Not available",
+                                "label": " Not available"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Most recent damage (when)"
+                    },
+                    "id": "mound-crm-damage-when",
+                    "name": "mound-crm-damage-when"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-rtdescription":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "RT Description"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-crm-rtdescription",
+                    "name": "mound-crm-rtdescription"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-crm-recommendations":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Comments and Recommendations"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-crm-recommendations",
+                    "name": "mound-crm-recommendations"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield0352cc76":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "5 - extinct or near extinct",
+                                "label": "5 - extinct or near extinct"
+                            },
+                            {
+                                "value": "4 - seriously damaged",
+                                "label": "4 - seriously damaged"
+                            },
+                            {
+                                "value": "3 - damage",
+                                "label": "3 - damage"
+                            },
+                            {
+                                "value": "2 - minor damage",
+                                "label": "2 - minor damage"
+                            },
+                            {
+                                "value": "1 - pristine",
+                                "label": "1 - pristine"
+                            },
+                            {
+                                "value": "0 - No observation",
+                                "label": "0 - No observation"
+                            },
+                            {
+                                "value": "",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Condition"
+                    },
+                    "id": "newfield0352cc76",
+                    "name": "newfield0352cc76"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield54499ac5":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Other",
+                                "label": "Other"
+                            },
+                            {
+                                "value": " Post-depositional",
+                                "label": " Post-depositional"
+                            },
+                            {
+                                "value": "Animal activity",
+                                "label": "Animal activity"
+                            },
+                            {
+                                "value": "Anthropogenic",
+                                "label": "Anthropogenic"
+                            },
+                            {
+                                "value": "No observation",
+                                "label": "No observation"
+                            },
+                            {
+                                "value": "",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Principal Source of Impact"
+                    },
+                    "id": "newfield54499ac5",
+                    "name": "newfield54499ac5"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldde78a4e1":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Other Sources of Impact"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfieldde78a4e1",
+                    "name": "newfieldde78a4e1"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldd3c8a900":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "5 - none or nearly none",
+                                "label": "5 - none or nearly none"
+                            },
+                            {
+                                "value": "4 - minimal",
+                                "label": "4 - minimal"
+                            },
+                            {
+                                "value": "3 - impaired",
+                                "label": "3 - impaired"
+                            },
+                            {
+                                "value": "2 - good",
+                                "label": "2 - good"
+                            },
+                            {
+                                "value": "1 - full",
+                                "label": "1 - full"
+                            },
+                            {
+                                "value": "0 - No observation",
+                                "label": "0 - No observation"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Archaeological potential"
+                    },
+                    "id": "newfieldd3c8a900",
+                    "name": "newfieldd3c8a900"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield43cdcd4e":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Post-depositional",
+                                "label": "Post-depositional"
+                            },
+                            {
+                                "value": "Animal activity",
+                                "label": "Animal activity"
+                            },
+                            {
+                                "value": "Development",
+                                "label": "Development"
+                            },
+                            {
+                                "value": "Looting",
+                                "label": "Looting"
+                            },
+                            {
+                                "value": "Agriculture",
+                                "label": "Agriculture"
+                            },
+                            {
+                                "value": "Not available",
+                                "label": "Not available"
+                            },
+                            {
+                                "value": "Other",
+                                "label": "Other"
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Most recent damage (what)"
+                    },
+                    "id": "newfield43cdcd4e",
+                    "name": "newfield43cdcd4e"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldda7b1daa":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": true,
+                    "select": true,
+                    "InputProps":
+                    {},
+                    "SelectProps":
+                    {},
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": " Not available",
+                                "label": " Not available"
+                            },
+                            {
+                                "value": " Other",
+                                "label": " Other"
+                            },
+                            {
+                                "value": "Unknown",
+                                "label": "Unknown"
+                            },
+                            {
+                                "value": "Last year",
+                                "label": "Last year"
+                            },
+                            {
+                                "value": "Last month",
+                                "label": "Last month"
+                            },
+                            {
+                                "value": "Last week",
+                                "label": "Last week"
+                            },
+                            {
+                                "value": "",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    "InputLabelProps":
+                    {
+                        "label": "Most recent damage (when)"
+                    },
+                    "id": "newfieldda7b1daa",
+                    "name": "newfieldda7b1daa"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldde5569c9":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "RT Description"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfieldde5569c9",
+                    "name": "newfieldde5569c9"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldb5953ab6":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Comments and Recommendations"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfieldb5953ab6",
+                    "name": "newfieldb5953ab6"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield516c262c":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Height Max (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfield516c262c",
+                    "name": "newfield516c262c"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldd92933f2":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Height Min (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfieldd92933f2",
+                    "name": "newfieldd92933f2"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldf497f391":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Diameter Max (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfieldf497f391",
+                    "name": "newfieldf497f391"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield3a99efa6":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "number"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Diameter Min (m)"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfield3a99efa6",
+                    "name": "newfield3a99efa6"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.number"
+                    ],
+                    [
+                        "yup.min",
+                        1
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield9eaf0b33":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "string"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Other Dimension"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfield9eaf0b33",
+                    "name": "newfield9eaf0b33"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield6c356183":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": true,
+                    "InputProps":
+                    {
+                        "type": "string"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Shape Notes"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfield6c356183",
+                    "name": "newfield6c356183"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldc2c02075":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "Checkbox",
+                "type-returned": "faims-core::Bool",
+                "component-parameters":
+                {
+                    "name": "newfieldc2c02075",
+                    "id": "newfieldc2c02075",
+                    "required": false,
+                    "type": "checkbox",
+                    "FormControlLabelProps":
+                    {
+                        "label": "Associated Feature or Material"
+                    },
+                    "FormHelperTextProps":
+                    {
+                        "children": "There is no place to enter the checkbox items in this Checkboxfield"
+                    }
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.bool"
+                    ]
+                ],
+                "initialValue": false,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldcaf9fb88":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "RadioGroup",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "name": "newfieldcaf9fb88",
+                    "id": "newfieldcaf9fb88",
+                    "variant": "outlined",
+                    "required": true,
+                    "ElementProps":
+                    {
+                        "options":
+                        [
+                            {
+                                "value": "Yes",
+                                "label": "Yes",
+                                "RadioProps":
+                                {
+                                    "id": "radio-group-field-0"
+                                }
+                            },
+                            {
+                                "value": "No",
+                                "label": "No",
+                                "RadioProps":
+                                {
+                                    "id": "radio-group-field-1"
+                                }
+                            }
+                        ]
+                    },
+                    "FormLabelProps":
+                    {
+                        "children": "Sample Collected?"
+                    },
+                    "FormHelperTextProps":
+                    {
+                        "children": "Make sure you choose the right one!"
+                    }
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "1",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfielda7746482":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Surface Material Description"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "newfielda7746482",
+                    "name": "newfielda7746482"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-chronology":
+            {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps":
+                    {
+                        "type": "text"
+                    },
+                    "SelectProps":
+                    {},
+                    "InputLabelProps":
+                    {
+                        "label": "Chronology Estimate"
+                    },
+                    "FormHelperTextProps":
+                    {},
+                    "id": "mound-material-chronology",
+                    "name": "mound-material-chronology"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-material-photo":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "TakePhoto",
+                "type-returned": "faims-attachment::Files",
+                "component-parameters":
+                {
+                    "fullWidth": true,
+                    "name": "mound-material-photo",
+                    "id": "mound-material-photo",
+                    "helperText": "Take a photo of the associated material",
+                    "variant": "outlined",
+                    "label": "Associated Feature or Material Photo"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.object"
+                    ],
+                    [
+                        "yup.nullable"
+                    ]
+                ],
+                "initialValue": null,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "mound-general-ID":
+            {
+                "component-namespace": "faims-custom",
+                "component-name": "BasicAutoIncrementer",
+                "type-returned": "faims-core::String",
+                "component-parameters":
+                {
+                    "name": "mound-general-ID",
+                    "id": "mound-general-ID",
+                    "variant": "outlined",
+                    "required": true,
+                    "num_digits": 5,
+                    "form_id": "FORM1SECTION1",
+                    "label": "Mound ID"
+                },
+                "validationSchema":
+                [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": null,
+                "access":
+                [
+                    "admin"
+                ],
+                "meta":
+                {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty":
+                    {
+                        "include": true,
+                        "label": "uncertainty"
+                    }
+                }
+            }
+        },
+        "fviews":
+        {
+            "FORM1SECTION1":
+            {
+                "fields":
+                [
+                    "hridFORM1",
+                    "mound-general-feature-type",
+                    "mound-general-source",
+                    "mound-general-description",
+                    "mound-general-landusearound",
+                    "mound-general-landuseontop",
+                    "mound-general-positioninlandscape",
+                    "mound-general-prominence",
+                    "mound-general-latlong",
+                    "mound-general-handheldGPS",
+                    "mound-general-elevation",
+                    "mound-general-facingphotodirection",
+                    "mound-general-externalphotoid",
+                    "mound-general-overviewphoto",
+                    "mound-general-ID"
+                ],
+                "uidesign": "form",
+                "label": "General"
+            },
+            "FORM2SECTION1":
+            {
+                "fields":
+                [
+                    "mound-measure-heightmax",
+                    "mound-measure-heightmin",
+                    "mound-measure-diammax",
+                    "mound-measure-diammin",
+                    "mound-measure-otherdimension",
+                    "mound-measure-shapenote"
+                ],
+                "uidesign": "form",
+                "label": "SECTION1"
+            },
+            "FORM3SECTION1":
+            {
+                "fields":
+                [
+                    "mound-material-assocmaterial",
+                    "mound-material-samplecollected",
+                    "mound-material-description",
+                    "mound-material-chronology",
+                    "mound-material-photo"
+                ],
+                "uidesign": "form",
+                "label": "SECTION1"
+            },
+            "FORM4SECTION1":
+            {
+                "fields":
+                [
+                    "mound-crm-condition",
+                    "mound-crm-principalimpact",
+                    "mound-crm-otherimpact",
+                    "mound-crm-potential",
+                    "mound-crm-damage-what",
+                    "mound-crm-damage-when",
+                    "mound-crm-rtdescription",
+                    "mound-crm-recommendations"
+                ],
+                "uidesign": "form",
+                "label": "SECTION1"
+            },
+            "FORM1SECTION2":
+            {
+                "fields":
+                [
+                    "mound-measure-heightmax",
+                    "mound-measure-heightmin",
+                    "mound-measure-diammax",
+                    "mound-measure-diammin",
+                    "mound-measure-otherdimension",
+                    "mound-measure-shapenote"
+                ],
+                "uidesign": "form",
+                "label": "Dimensions"
+            },
+            "FORM1SECTION3":
+            {
+                "fields":
+                [
+                    "mound-material-assocmaterial",
+                    "mound-material-samplecollected",
+                    "mound-material-description",
+                    "mound-material-chronology",
+                    "mound-material-photo"
+                ],
+                "uidesign": "form",
+                "label": "Material"
+            },
+            "FORM1SECTION4":
+            {
+                "fields":
+                [
+                    "mound-crm-condition",
+                    "mound-crm-principalimpact",
+                    "mound-crm-otherimpact",
+                    "mound-crm-potential",
+                    "mound-crm-damage-what",
+                    "mound-crm-damage-when",
+                    "mound-crm-rtdescription",
+                    "mound-crm-recommendations"
+                ],
+                "uidesign": "form",
+                "label": "CRM"
+            }
+        },
+        "viewsets":
+        {
+            "FORM1":
+            {
+                "views":
+                [
+                    "FORM1SECTION1",
+                    "FORM1SECTION2",
+                    "FORM1SECTION3",
+                    "FORM1SECTION4"
+                ],
+                "label": "Mound"
+            },
+            "FORM2":
+            {
+                "views":
+                [
+                    "FORM2SECTION1"
+                ],
+                "label": ""
+            },
+            "FORM3":
+            {
+                "views":
+                [
+                    "FORM3SECTION1"
+                ],
+                "label": ""
+            },
+            "FORM4":
+            {
+                "views":
+                [
+                    "FORM4SECTION1"
+                ],
+                "label": ""
+            }
+        },
+        "visible_types":
+        [
+            "FORM1",
+            "FORM2",
+            "FORM3",
+            "FORM4"
+        ],
+        "_id": "ui-specification",
+        "_rev": "3-e968eba92e5015a3cee98be5e44bfed5"
+    }
+]
